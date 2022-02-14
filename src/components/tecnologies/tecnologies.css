@@ -1,0 +1,12 @@
+ul{
+    display: flex;
+    flex-direction: row;
+    font-size: 5em;
+    justify-content: center;
+    
+}
+
+ul li:hover{
+    color: rgba(252, 215, 8, 0.767);
+    text-decoration-color: white;
+}
